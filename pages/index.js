@@ -14,7 +14,7 @@ export default function Home() {
         <h1 className="title">About me</h1>
         <div className="content">
           <p>
-            I’m Paras Waykole, an engineer by profession and a maker at heart. I
+            I’m Paras Waykole, a maker at heart and an engineer by profession. I
             am enthusiastic about AI Coversational Systems, Autonomous Vehicles,
             AI/ML, All things Internet and Mobile. Generally, building things
             for Internet and Mobile.
