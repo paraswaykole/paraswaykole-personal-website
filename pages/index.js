@@ -15,9 +15,9 @@ export default function Home() {
         <div className="content">
           <p>
             I’m Paras Waykole, an engineer by profession and a maker at heart. I
-            am passionate about AI Coversational Systems, Autonomous Vehicles,
-            AI/ML, Internet and Mobile. I love making things for Internet and
-            Mobile.
+            am enthusiastic about AI Coversational Systems, Autonomous Vehicles,
+            AI/ML, All things Internet and Mobile. Generally, building things
+            for Internet and Mobile.
           </p>
           <p>
             Building and making things has always been my favourite thing to do.

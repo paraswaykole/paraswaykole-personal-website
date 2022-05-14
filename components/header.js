@@ -43,6 +43,9 @@ export default function Header() {
                   LinkedIn
                 </a>
               </li>
+              <li className="main-navigation-item">
+                <a href="https://github.com/paraswaykole">GitHub</a>
+              </li>
             </ul>
           </div>
         </nav>
