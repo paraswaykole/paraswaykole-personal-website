@@ -15,10 +15,8 @@ class AppDocument extends Document {
           />
         </Head>
         <body>
-          <div className="appcontainer">
-            <Main />
-            <NextScript />
-          </div>
+          <Main />
+          <NextScript />
         </body>
       </Html>
     );
