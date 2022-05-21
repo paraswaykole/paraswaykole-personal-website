@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { SocialIcon } from "react-social-icons";
 
 export default function Header() {
   return (
@@ -35,16 +36,24 @@ export default function Header() {
                   <a>Photos</a>
                 </Link>
               </li>
+              &nbsp;&nbsp;&nbsp;
               <li className="main-navigation-item">
-                <a href="https://twitter.com/ParasWaykole">Twitter</a>
+                <SocialIcon
+                  url="https://twitter.com/ParasWaykole"
+                  style={{ width: 20, height: 20 }}
+                />
               </li>
               <li className="main-navigation-item">
-                <a href="https://www.linkedin.com/in/paras-waykole/">
-                  LinkedIn
-                </a>
+                <SocialIcon
+                  url="https://www.linkedin.com/in/paras-waykole/"
+                  style={{ width: 20, height: 20 }}
+                />
               </li>
               <li className="main-navigation-item">
-                <a href="https://github.com/paraswaykole">GitHub</a>
+                <SocialIcon
+                  url="https://github.com/paraswaykole"
+                  style={{ width: 20, height: 20 }}
+                />
               </li>
             </ul>
           </div>
