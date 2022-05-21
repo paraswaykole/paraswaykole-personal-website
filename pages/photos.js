@@ -1,39 +1,33 @@
 import Head from "next/head";
-import Link from "next/link";
 import Gallery from "react-photo-gallery";
 import Header from "../components/header";
 
 export default function Home() {
   const photos = [
     {
-      src: "/photos/temp0.jpg",
-      width: 1080,
-      height: 810,
+      src: "/photos/modified/dawki-meghalaya-boats.jpg",
+      width: 6000,
+      height: 4000,
     },
     {
-      src: "/photos/temp0.1.jpg",
-      width: 1080,
-      height: 810,
+      src: "/photos/modified/dawki-meghalaya-boats-and-sun.jpg",
+      width: 6000,
+      height: 4000,
     },
     {
-      src: "/photos/temp1.webp",
-      width: 3,
-      height: 2,
+      src: "/photos/modified/dzukou-valley.jpg",
+      width: 6000,
+      height: 4000,
     },
     {
-      src: "/photos/temp2.webp",
-      width: 3,
-      height: 2,
-    },
-    {
-      src: "/photos/temp0.2.jpg",
-      width: 1080,
-      height: 810,
+      src: "/photos/modified/meghalaya-nongriat.jpg",
+      width: 6000,
+      height: 4000,
     },
   ];
 
   const onImageClick = (e, photos) => {
-    window.open(photos.photo.src);
+    window.open(photos.photo.src.replace("/modified/", "/"));
   };
 
   return (
@@ -44,7 +38,7 @@ export default function Home() {
 
       <Header />
       <article>
-        <h1 className="title">Photos</h1>
+        <h1 className="title">Travel &amp; Photography</h1>
         <div className="content">
           <Gallery
             photos={photos}

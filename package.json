@@ -3,8 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "predev": "npx image-cli-tools \"./public/photos/*\" -o maxheight=512",
     "dev": "next dev",
     "build": "next build && next export",
+    "postbuild": "npx image-cli-tools \"./out/photos/*\" -o maxheight=512",
     "start": "next start",
     "lint": "next lint"
   },

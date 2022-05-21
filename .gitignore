@@ -13,6 +13,7 @@
 
 # production
 /build
+/public/photos/modified
 
 # misc
 .DS_Store
