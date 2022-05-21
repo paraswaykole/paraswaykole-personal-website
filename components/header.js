@@ -32,7 +32,7 @@ export default function Header() {
                 </Link>
               </li>
               <li className="main-navigation-item">
-                <Link href="/photos" title="Photos" rel="home">
+                <Link href="/photos.html" title="Photos" rel="home">
                   <a>Photos</a>
                 </Link>
               </li>
