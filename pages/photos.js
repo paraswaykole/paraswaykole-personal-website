@@ -24,6 +24,31 @@ export default function Home() {
       width: 6000,
       height: 4000,
     },
+    {
+      src: "/photos/modified/hampi-temple.jpg",
+      width: 4096,
+      height: 3072,
+    },
+    {
+      src: "/photos/modified/hampi-temple-and-boulders.jpg",
+      width: 4096,
+      height: 3072,
+    },
+    {
+      src: "/photos/modified/hampi-river-side.jpg",
+      width: 4096,
+      height: 3072,
+    },
+    {
+      src: "/photos/modified/hampi-vithalla-temple.jpg",
+      width: 3072,
+      height: 3052,
+    },
+    {
+      src: "/photos/modified/hampi-hills.jpg",
+      width: 4096,
+      height: 3072,
+    },
   ];
 
   const onImageClick = (e, photos) => {
