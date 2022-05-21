@@ -52,6 +52,66 @@ export default function Home() {
       width: 4096,
       height: 3072,
     },
+    {
+      src: "/photos/modified/goose-bird.jpg",
+      width: 6000,
+      height: 4000,
+    },
+    {
+      src: "/photos/modified/meghalaya-nongjrong-1.jpg",
+      width: 4000,
+      height: 6000,
+    },
+    {
+      src: "/photos/modified/meghalaya-nongjrong-2.jpg",
+      width: 6000,
+      height: 4000,
+    },
+    {
+      src: "/photos/modified/meghalaya-nongjrong-3.jpg",
+      width: 6000,
+      height: 4000,
+    },
+    {
+      src: "/photos/modified/meghalaya-nongriat-1.jpg",
+      width: 6000,
+      height: 4000,
+    },
+    {
+      src: "/photos/modified/meghalaya-double-decker-bridge.jpg",
+      width: 6000,
+      height: 4000,
+    },
+    {
+      src: "/photos/modified/manipur-hills.jpg",
+      width: 6000,
+      height: 4000,
+    },
+    {
+      src: "/photos/modified/dzukou-valley-1.jpg",
+      width: 6000,
+      height: 4000,
+    },
+    {
+      src: "/photos/modified/manipur-chadong-lake.jpg",
+      width: 6000,
+      height: 4000,
+    },
+    {
+      src: "/photos/modified/manipur-chadong-lake-1.jpg",
+      width: 6000,
+      height: 4000,
+    },
+    {
+      src: "/photos/modified/shillong-nightscape.jpg",
+      width: 6000,
+      height: 4000,
+    },
+    {
+      src: "/photos/modified/dzukou-valley-2.jpg",
+      width: 6000,
+      height: 4000,
+    },
   ];
 
   const onImageClick = (e, photos) => {
