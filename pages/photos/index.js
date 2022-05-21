@@ -1,6 +1,6 @@
 import Head from "next/head";
 import Gallery from "react-photo-gallery";
-import Header from "../components/header";
+import Header from "../../components/header";
 
 export default function Home() {
   const photos = [
