@@ -39,7 +39,7 @@ header .site-title{
   padding: 0;
   text-transform: uppercase;
 }
-.title {
+article .title {
   font-family: 'Arvo', serif;
 }
 article{
@@ -51,6 +51,7 @@ article .content{
   color: #787878;
   font-size: 18px;
   line-height: 26px;
+  text-align: justify;
 }
 article .content p{
   margin-bottom: 1.5em;
