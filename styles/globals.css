@@ -1,11 +1,12 @@
 body{
-  font-family: 'Arvo', serif;
+  font-family: 'PT Sans','Arvo', serif;
 }
 header{
   max-width: 720px;
   padding: 20px;
   margin: 0 auto;
   text-align: center;
+  font-family: 'Arvo', serif;
 }
 header h1 a {
     color: #000000;
@@ -37,6 +38,9 @@ header .site-title{
   margin-top: 10px;
   padding: 0;
   text-transform: uppercase;
+}
+.title {
+  font-family: 'Arvo', serif;
 }
 article{
   max-width: 720px;
