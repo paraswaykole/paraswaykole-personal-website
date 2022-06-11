@@ -133,6 +133,7 @@ export default function Home() {
               photos={photos}
               direction="column"
               columns={2}
+              margin={0}
               onClick={onImageClick}
             />
           ) : (
@@ -140,6 +141,7 @@ export default function Home() {
               photos={photos}
               direction="column"
               columns={3}
+              margin={0}
               onClick={onImageClick}
             />
           )}
