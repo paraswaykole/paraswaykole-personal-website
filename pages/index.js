@@ -14,13 +14,13 @@ export default function Home() {
         <h1 className="title">About me</h1>
         <div className="content">
           <p>
-            I'm a maker at heart and an engineer by profession with designing
-            skills. Based out of India.
+            I&apos;m a maker at heart and an engineer by profession with
+            designing skills. Based out of India.
           </p>
           <p>
-            I'm enthusiastic about all things tech especially AI Coversational
-            Systems, Autonomous Vehicles, AI/ML, Internet and Mobile. Generally,
-            building things for Internet and Mobile.
+            I&apos;m enthusiastic about all things tech especially AI
+            Coversational Systems, Autonomous Vehicles, AI/ML, Internet and
+            Mobile. Generally, building things for Internet and Mobile.
           </p>
           <p>
             Building and making things has always been my favourite thing to do.
