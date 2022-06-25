@@ -42,8 +42,8 @@ export default function Home() {
           </p>
           <p>
             In 2019, I worked as Product Engineer at DoseFM (Acquired by
-            ClearTax). Later, I joined a Fast-growing Startup team to build the
-            next voice messaging app. Also, built 360Katas (A slack app for
+            ClearTax). Later, I joined an amazing startup team to build voice
+            messaging app. Meanwhile also built 360Katas (A slack app for
             getting 360 degree feedback).
           </p>
           <p>
