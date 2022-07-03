@@ -28,6 +28,11 @@ export default function Home() {
       height: 4000,
     },
     {
+      src: "/photos/modified/transvaal-daisy.jpg",
+      width: 5068,
+      height: 4000,
+    },
+    {
       src: "/photos/modified/hampi-temple.jpg",
       width: 4096,
       height: 3072,
