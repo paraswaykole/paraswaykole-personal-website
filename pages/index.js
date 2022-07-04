@@ -19,7 +19,7 @@ export default function Home() {
           </p>
           <p>
             I&apos;m enthusiastic about all things tech especially AI
-            Coversational Systems, Autonomous Vehicles, AI/ML, Internet and
+            Conversational Systems, Autonomous Vehicles, AI/ML, Internet and
             Mobile. Generally, building things for Internet and Mobile.
           </p>
           <p>
