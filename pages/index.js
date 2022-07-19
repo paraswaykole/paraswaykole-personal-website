@@ -24,14 +24,12 @@ export default function Home() {
           </p>
           <p>
             Building and making things has always been my favourite thing to do.
-            I have been programming since the age of 12 (built ~5 PC games back
-            then when I first started programming). Later started a mobile
-            gaming company where I created around 6 Mobile Game titles.
+            I have been programming since the age of 12 (built ~5 2D PC games). 
+            Later, started a mobile gaming company where I created around 6 Mobile Game titles.
           </p>
           <p>
             In 2016, I started building Superbot, which was an AI
-            Assistant,(technically an AI Conversational System). It worked
-            independently based on my own algorithms. I worked on this for more
+            Assistant App. I worked on this for more
             than 2 years simultaneously while completing my degree.
           </p>
           <p>
