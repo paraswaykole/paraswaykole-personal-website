@@ -18,11 +18,6 @@ export default function Home() {
             designing skills. Based out of India.
           </p>
           <p>
-            I&apos;m enthusiastic about all things tech especially AI
-            Conversational Systems, Autonomous Vehicles, AI/ML, Internet and
-            Mobile. Generally, building things for Internet and Mobile.
-          </p>
-          <p>
             Building and making things has always been my favourite thing to do.
             I have been programming since the age of 12 (built ~5 2D PC games). 
             Later, started a mobile gaming company where I created around 6 Mobile Game titles.
@@ -47,6 +42,11 @@ export default function Home() {
           <p>
             Currently, I am leading tech and building bip.so in Golang &amp;
             React.
+          </p>
+          <p>
+            I&apos;m enthusiastic about all things tech especially AI
+            Conversational Systems, Autonomous Vehicles, AI/ML, Internet and
+            Mobile. Generally, building things for Internet and Mobile.
           </p>
           <p>
             I work on side-projects in my free time. One is{" "}
