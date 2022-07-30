@@ -23,9 +23,9 @@ export default function Home() {
             Later in 2014, started a mobile gaming company where I created around 6 Mobile Game titles.
           </p>
           <p>
-            In 2016, I started building Superbot, which was an AI
-            Assistant App. I worked on this for more
-            than 2 years simultaneously while completing my degree.
+            In 2016, I started building Superbot, an AI bot to discover and get things done. 
+            On chat recharges, bill payments, cab booking, reminders, food recommendations nearby, etc. 
+            I worked on this for more than 2 years simultaneously while completing my degree.
           </p>
           <p>
             In 2018, I founded NoDoubt App, an App for Exam takers to get their
