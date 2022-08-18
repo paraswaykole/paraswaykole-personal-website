@@ -117,6 +117,11 @@ export default function Home() {
       width: 6000,
       height: 4000,
     },
+    {
+      src: "/photos/modified/manipur-shirui-kashong-landscape.jpg",
+      width: 6000,
+      height: 4000,
+    },
   ];
 
   const onImageClick = (e, photos) => {
