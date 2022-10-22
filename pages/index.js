@@ -31,7 +31,7 @@ export default function Home() {
             In 2018, I founded NoDoubt App, an App for exam takers to get their
             doubts answered, initially for GRE Exam. Got more than 3000+ Active
             Users in very few months. NoDoubt was accepted on Advisor Track of 
-            YCombinator Startup School 2018 &#8211;.
+            YCombinator Startup School 2018.
           </p>
           <p>
             In 2019, I worked as Product Engineer at DoseFM (Acquired by
