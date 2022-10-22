@@ -39,12 +39,6 @@ export default function Header() {
               &nbsp;&nbsp;&nbsp;
               <li className="main-navigation-item">
                 <SocialIcon
-                  url="https://twitter.com/ParasWaykole"
-                  style={{ width: 20, height: 20 }}
-                />
-              </li>
-              <li className="main-navigation-item">
-                <SocialIcon
                   url="https://www.linkedin.com/in/paras-waykole/"
                   style={{ width: 20, height: 20 }}
                 />
