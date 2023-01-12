@@ -41,20 +41,23 @@ export default function Home() {
             Engineer at bip.so.
           </p>
           <p>
+            Currently, I am building <Link
+              rel="noreferrer noopener"
+              href="https://slashbase.com/"
+              target="_blank"
+            ><a>Slashbase</a></Link> full-time. Slashbase is an in-browser collaborative database IDE for your dev/data workflows. It also has an open-source version on&nbsp;
+            <Link 
+            rel="noreferrer noopener"
+            href="https://github.com/slashbaseide/slashbase"
+            target="_blank"><a>GitHub</a></Link>.
+          </p>
+          <p>
             I&apos;m enthusiastic about all things tech especially AI
             Conversational Systems, Autonomous Vehicles, AI/ML, Internet and
             Mobile. Generally, building things for Internet and Mobile.
           </p>
           <p>
-            I work on side-projects in my free time. One is{" "}
-            <Link
-              rel="noreferrer noopener"
-              href="https://slashbase.com/"
-              target="_blank"
-            >
-              <a>Slashbase.com</a>
-            </Link>
-            . I like trekking and exploring, swimming, reading books, listening
+            Apart from work, I like trekking and exploring, swimming, reading books, listening
             to podcasts.
           </p>
           <p>
