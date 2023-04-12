@@ -122,6 +122,38 @@ export default function Home() {
       width: 6000,
       height: 4000,
     },
+    {
+      src: "/photos/modified/mauritius-zebra.jpg",
+      width: 6000,
+      height: 4000,
+    },
+    {
+      src: "/photos/modified/mauritius-boats.jpg",
+      width: 6000,
+      height: 4000,
+    },
+    {
+      src: "/photos/modified/mauritius-deer-youngling.jpg",
+      width: 6000,
+      height: 4000,
+    },
+
+    {
+      src: "/photos/modified/mauritius-magroves.jpg",
+      width: 6000,
+      height: 4000,
+    },
+
+    {
+      src: "/photos/modified/mauritius-sunset.jpg",
+      width: 6000,
+      height: 4000,
+    },
+    {
+      src: "/photos/modified/mauritius-tree-by-beach.jpg",
+      width: 4000,
+      height: 3000,
+    },
   ];
 
   const onImageClick = (e, photos) => {
