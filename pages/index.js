@@ -35,17 +35,20 @@ export default function Home() {
           </p>
           <p>
             In 2019, I worked as Product Engineer at DoseFM (Acquired by
-            ClearTax). Later, I joined an amazing startup team to help build 
+            ClearTax). Later, I joined PhonePost to help build 
             voice messaging app. Meanwhile, also built 360Katas (A slack app for
             getting 360 degree feedback). In 2021-22, I was Lead Product 
-            Engineer at bip.so.
+            Engineer at bip.so. Later, Founded Slashbase full-time.
           </p>
           <p>
-            Currently, I am building <Link
+            Currently, I am working as SDE3 at Loco (Live Game Streaming Platform).
+          </p>
+          <p>
+            Also, I am Core-maintainer of <Link
               rel="noreferrer noopener"
               href="https://slashbase.com/"
               target="_blank"
-            ><a>Slashbase</a></Link> full-time. Slashbase is an in-browser collaborative database IDE for your dev/data workflows. It also has an open-source version on&nbsp;
+            ><a>Slashbase</a></Link>. Slashbase is an in-browser collaborative database IDE for your dev/data workflows. It also has an open-source version on&nbsp;
             <Link 
             rel="noreferrer noopener"
             href="https://github.com/slashbaseide/slashbase"
@@ -54,11 +57,7 @@ export default function Home() {
           <p>
             I&apos;m enthusiastic about all things tech especially AI
             Conversational Systems, Autonomous Vehicles, AI/ML, Internet and
-            Mobile. Generally, building things for Internet and Mobile.
-          </p>
-          <p>
-            Apart from work, I like trekking and exploring, swimming, reading books, listening
-            to podcasts.
+            Mobile. Generally, experimenting and building things for Internet and Mobile.
           </p>
           <p>
             Lets connect on:{" "}
