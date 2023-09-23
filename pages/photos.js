@@ -154,6 +154,16 @@ export default function Home() {
       width: 4000,
       height: 3000,
     },
+    {
+      src: "/photos/modified/mauritius-giant-tortoise.jpg",
+      width: 6000,
+      height: 4000,
+    },
+    {
+      src: "/photos/modified/mauritius-landscape.jpg",
+      width: 6000,
+      height: 4000,
+    },
   ];
 
   const onImageClick = (e, photos) => {
