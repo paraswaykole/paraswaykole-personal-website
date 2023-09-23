@@ -8,7 +8,7 @@ export default function Header() {
         <div>
           <img
             alt="paras waykole"
-            src="paras-waykole.png"
+            src="paras-waykole.jpg"
             className="avatar"
             height="100"
             width="100"
