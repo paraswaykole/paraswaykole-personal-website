@@ -15,7 +15,7 @@ export default function Home() {
         <div className="content">
           <p>
             I&apos;m a developer / product experimenter / maker-builder at heart and an engineer by profession with
-            designing skills. I'm based out of India.
+            designing skills. I&apos;m based out of India.
           </p>
           <p>
             Building things on computer has always been my favourite thing to do.
@@ -51,7 +51,7 @@ export default function Home() {
             Built the community of 18 open-source contributors and 50+ discord members. Also, got $2500 github sponsorship for the project from Appwrite OSS Fund.
           </p>
           <p>
-            Currently, I'm working full-time as SDE3 at Loco (Live Game Streaming Platform) and pursuing my masters (M.Tech in Software Engineering) on weekends at BITS Pilani WILP.
+            Currently, I&apos;m working full-time as SDE3 at Loco (Live Game Streaming Platform) and pursuing my masters (M.Tech in Software Engineering) on weekends at BITS Pilani WILP.
           </p>
           <p>
             I&apos;m enthusiastic about all things tech especially AI
