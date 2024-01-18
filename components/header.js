@@ -21,7 +21,7 @@ export default function Header() {
               <a>Paras Waykole</a>
             </Link>
           </h1>
-          <p>dev / builder / maker</p>
+          <p>developer / product experimenter / maker-builder</p>
         </div>
 
         <nav role="navigation" className="main-navigation">

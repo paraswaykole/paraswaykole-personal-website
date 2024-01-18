@@ -14,13 +14,14 @@ export default function Home() {
         <h1 className="title">About me</h1>
         <div className="content">
           <p>
-            I&apos;m a dev / builder / maker at heart and an engineer by profession with
-            designing skills. Based out of India.
+            I&apos;m a developer / product experimenter / maker-builder at heart and an engineer by profession with
+            designing skills. I'm based out of India.
           </p>
           <p>
             Building things on computer has always been my favourite thing to do.
             I started building 2D PC games around the age of 12 (built ~5 2D PC games). 
-            Later in 2014, started a mobile gaming company where I created around 6 Mobile Game titles.
+            Later in 2014, started a mobile gaming company where I created around 6 Mobile Game titles. 
+            I got featured in Yourstory and multiple local newspapers for my story.
           </p>
           <p>
             In 2016, I started building Superbot, an AI chat bot to discover and get things done. 
@@ -34,25 +35,23 @@ export default function Home() {
             YCombinator Startup School 2018.
           </p>
           <p>
-            In 2019, I worked as Product Engineer at DoseFM (Acquired by
+            In 2019-20, I worked as Product Engineer at DoseFM (Acquired by
             ClearTax). Later, I joined PhonePost to help build 
             voice messaging app. Meanwhile, also built 360Katas (A slack app for
-            getting 360 degree feedback). In 2021-22, I was Lead Product 
-            Engineer at bip.so. Later, Founded Slashbase full-time.
+            getting 360 degree feedback). 
           </p>
           <p>
-            Currently, I am working as SDE3 at Loco (Live Game Streaming Platform).
+            In 2021-22, I was Lead Product Engineer at bip.so. We built a git-based document versioning system
+            for DAOs and communities. There I lead the frontend and backend efforts to build the initial first version 
+            in Golang and React. I also built the git backend service in golang that used database to store and retreive git objects 
+            and references using libgit2 library. Had to write some low-level code in C++ to make that work.
           </p>
           <p>
-            Also, I am Core-maintainer of <Link
-              rel="noreferrer noopener"
-              href="https://slashbase.com/"
-              target="_blank"
-            ><a>Slashbase</a></Link>. Slashbase is an in-browser collaborative database IDE for your dev/data workflows. It also has an open-source version on&nbsp;
-            <Link 
-            rel="noreferrer noopener"
-            href="https://github.com/slashbaseide/slashbase"
-            target="_blank"><a>GitHub</a></Link>.
+            In 2023, I founded Slashbase full-time. Slashbase is an open-source database IDE for dev/data workflows. Managed to write a single-codebase to build desktop app and server app from same.
+            Built the community of 18 open-source contributors and 50+ discord members. Also, got $2500 github sponsorship for the project from Appwrite OSS Fund.
+          </p>
+          <p>
+            Currently, I'm working full-time as SDE3 at Loco (Live Game Streaming Platform) and pursuing my masters (M.Tech in Software Engineering) on weekends at BITS Pilani WILP.
           </p>
           <p>
             I&apos;m enthusiastic about all things tech especially AI
