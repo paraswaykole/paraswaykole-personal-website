@@ -43,7 +43,7 @@ export default function Home() {
           <p>
             In 2021-22, I was Lead Product Engineer at bip.so. We built a git-based document versioning system
             for DAOs and communities. There I lead the frontend and backend efforts to build the initial first version 
-            in Golang and React. I also built the git backend service in golang that used database to store and retreive git objects 
+            in Golang and React. I also built the git backend service in golang that used postgres database to store and retreive git objects 
             and references using libgit2 library. Had to write some low-level code in C++ to make that work.
           </p>
           <p>
