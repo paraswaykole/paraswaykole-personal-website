@@ -14,7 +14,7 @@ export default function Home() {
         <h1 className="title">About me</h1>
         <div className="content">
           <p>
-            I&apos;m a developer / product experimenter / maker-builder at heart and an engineer by profession with
+            I&apos;m a developer / tech experimenter / maker-builder at heart and an engineer by profession with
             designing skills. I&apos;m based out of India.
           </p>
           <p>
